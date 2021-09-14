@@ -1,0 +1,20 @@
+.title{
+    background-color: black;
+    color: teal;
+    
+}
+
+.title2{
+    background-color: blueviolet;
+    color: whitesmoke;
+}
+
+.title3{
+    background-color: cornflowerblue;
+    text-decoration: underline;
+    text-align: right;
+}
+
+.myColor{
+    color: whitesmoke;
+}
